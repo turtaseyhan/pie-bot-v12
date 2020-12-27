@@ -1,0 +1,36 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "Pie Bot BETA",
+  "main": "shard.js",
+  "scripts": {
+    "watch": "nodemon pie.js",
+    "start": "node shard.js"
+  },
+  "dependencies": {
+    "canvacord": "^5.0.8",
+    "dabi-images": "^2.7.5",
+    "dctr-antispam.js": "^0.1.1",
+    "discord-logs": "^1.8.2",
+    "discord.js": "^12.5.0",
+    "fs": "^0.0.2",
+    "funny-words": "^0.1.2",
+    "mathjs": "^8.0.1",
+    "moment": "^2.29.1",
+    "nsfwjs": "^2.3.0",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.2",
+    "moment-duration-format": "^2.3.2",
+    "superagent": "^6.1.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Turta"
+  ],
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
